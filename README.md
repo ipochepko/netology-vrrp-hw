@@ -28,6 +28,7 @@
 ### Результат
 
 [bash-script](check_web_server.sh)
+[keepalived-conf](keepalived.conf)
 
 ![before_stop_nginx](/img/2025-04-16_17-24.png)
 
